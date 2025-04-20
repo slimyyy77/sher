@@ -1,0 +1,60 @@
+.re { 
+   background-color: darkgray; 
+   border: 2px solid red;
+   border-radius: 25px;
+   text-align: center;
+}
+.bomp {
+    color: red;
+}
+.yt {
+    color: green;
+}
+.tw{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.ty {
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.tg {
+    color: green;
+}
+.yh {
+    color: green;
+}
+.hu {
+    background-color: cadetblue;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border: none;
+}
+
+.table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.yd {
+    background-color: green;
+    color: white;
+}
+.ji {
+    background-color: blue;
+    color: white;
+}
+.bg {
+    background-color: red;
+    color: white;
+}
+.jk {
+    background-color: black;
+    color: white;
+}
+.ts {
+    width: 100%;
+}
